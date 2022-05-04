@@ -20,16 +20,16 @@
 
     <TextView
         android:id="@+id/main_bluetooth"
-        android:layout_width="80dp"
+        android:layout_width="100dp"
         android:layout_height="30dp"
         android:layout_alignParentBottom="true"
         android:layout_marginLeft="50dp"
         android:layout_marginBottom="50dp"
         android:background="@drawable/shape_base"
         android:gravity="center"
-        android:text="连接蓝牙"
+        android:text="Link Bluetooth"
         android:textColor="@color/white"
-        android:textSize="14sp" />
+        android:textSize="12sp" />
 
     <TextView
         android:id="@+id/main_time"

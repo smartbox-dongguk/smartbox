@@ -53,7 +53,7 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
                 showTimePick2();
                 break;
             case R.id.main_bluetooth:
-                Toast.makeText(this,"连接蓝牙",Toast.LENGTH_SHORT).show();
+                Toast.makeText(this,"Link Bluetooth",Toast.LENGTH_SHORT).show();
                 break;
         }
     }
